@@ -24,7 +24,7 @@ To help UPS enhance its global supply chain efficiency by analyzing key operatio
 - Where are the delays and inefficiencies occurring?
 - Which vendors have higher freight costs relative to item value?
 
----
+
 
 ## 📁 Dataset Overview
 
@@ -39,9 +39,7 @@ The dataset contains detailed information on UPS shipment records, including:
 - **Freight Cost**
 - **Delivery Delays**
 
-> *Note: This is a simulated/cleansed dataset for academic and portfolio use.*
 
----
 
 ## 🔍 EDA Highlights
 
@@ -64,7 +62,7 @@ The dataset contains detailed information on UPS shipment records, including:
 - **Correlation Heatmap**: Cost, delay, weight, and performance
 - **Pair Plot**: Cluster detection for shipments with similar traits
 
----
+
 
 ## 📊 Visualizations
 
@@ -79,7 +77,6 @@ Example visuals include:
 - Heatmaps (correlations)
 - Pair plots (cluster insights)
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -91,7 +88,7 @@ Example visuals include:
 | Seaborn      | Statistical visualization |
 | Matplotlib   | Plotting and charts       |
 
----
+
 
 ## 🎯 Key Business Outcomes
 
