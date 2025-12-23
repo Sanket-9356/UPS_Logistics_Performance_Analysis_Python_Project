@@ -10,7 +10,7 @@ This project is an **Exploratory Data Analysis (EDA)** of UPS (United Parcel Ser
 
 
 <p align="center">
-  <img src="cov_imagee.png" alt="Project Banner" width="100%">
+  <img src="cov_image.png" alt="Project Banner" width="100%">
 </p>
 
 ---
