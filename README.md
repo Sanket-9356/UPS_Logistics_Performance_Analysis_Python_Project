@@ -1,5 +1,5 @@
 # 📦 UPS Logistics Performance Analysis (EDA)
----
+
 ![Data Science](https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML%20%7C%20Visualization-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
@@ -10,7 +10,7 @@ This project is an **Exploratory Data Analysis (EDA)** of UPS (United Parcel Ser
 
 
 <p align="center">
-  <img src="cover_imagee.png" alt="Project Banner" width="100%">
+  <img src="cov_imagee.png" alt="Project Banner" width="100%">
 </p>
 
 ---
